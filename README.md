@@ -19,3 +19,4 @@ Manipulation et traitement de données via notebooks Jupyter
 - Filtrage des données 
 - TEI-XML
 - Quelques analyses textuelles simples 
+- etc 
