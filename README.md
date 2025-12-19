@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cours Traitement informatique des données
 
 ## Public
