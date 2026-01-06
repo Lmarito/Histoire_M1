@@ -2,3 +2,8 @@ pdf2image
 PyPDF2
 Pillow
 pytesseract
+folium
+requests
+bs4
+matplotlib
+pymer4
