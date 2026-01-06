@@ -10,7 +10,6 @@ dependencies:
   - pandas
   - PyPDF2
   - pdf2image
-  - pymer4
   - pip
   - jupyterlab
   - pip:
