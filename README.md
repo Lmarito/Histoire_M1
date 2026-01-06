@@ -1,6 +1,6 @@
 # Cours Traitement informatique des données
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Histoire_M1/HEAD?urlpath=%2Fdoc%2Ftree%2FTraitement_des_donnees.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lmarito/Histoire_M1/HEAD?urlpath=%2Fdoc%2Ftree%2FTraitement_des_données.ipynb)
 
 ## Public
 Histoire (M1 ?)
