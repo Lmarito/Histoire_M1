@@ -13,5 +13,5 @@ dependencies:
   - pymer4
   - pip
   - jupyterlab
-  -pip:
-    -pytesseract
+  - pip:
+    - pytesseract
