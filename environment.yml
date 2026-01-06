@@ -1,0 +1,17 @@
+name: history_class
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - folium
+  - matplotlib
+  - Pillow
+  - pandas
+  - PyPDF2
+  - pdf2image
+  - pymer4
+  - pip
+  - jupyterlab
+  -pip:
+    -pytesseract
